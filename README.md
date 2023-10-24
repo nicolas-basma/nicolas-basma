@@ -1,13 +1,13 @@
 ### Hi I'm Nico :v:
 
-Full-Stack Junior Developer currently studying at the prestigious
-programming school 4️⃣2️⃣ :m:álaga.
+Full-Stack Junior Developer 👨‍💻 currently studying at the prestigious
+programming school 4️⃣2️⃣ :m:álaga.<br>
 This school teaches us how the profile of a programmer should be throughout his professional life.
 Teamwork, frustration tolerance, continuous learning, and most importantly, to grow professionally while having fun
 programming alone and in teams.
 I am excited about the idea of contributing my energy and enthusiasm to your company and the team and being able to
-continue my personal development and contribute my knowledge.
-Enjoy my GitHub profile!
+continue my personal development and contribute my knowledge.<br>
+Enjoy my GitHub profile! 😬
 
 ```js
 const Nico = {
