@@ -1,14 +1,12 @@
 ### Hi I'm Nico :v:
 
 Full-Stack Junior Developer currently studying at the prestigious
-programming school 42 Málaga.
+programming school 4️⃣2️⃣ :m:álaga.
 This school teaches us how the profile of a programmer should be throughout his professional life.
 Teamwork, frustration tolerance, continuous learning, and most importantly, to grow professionally while having fun
 programming alone and in teams.
-I am excited about the idea of contributing my energy and enthusiasm to the company and the team and being able to
+I am excited about the idea of contributing my energy and enthusiasm to your company and the team and being able to
 continue my personal development and contribute my knowledge.
-I hope we can get to know each other!
-Thank you!
 Enjoy my GitHub profile!
 
 ```js
