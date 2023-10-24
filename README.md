@@ -5,10 +5,12 @@ const Nico = {
   pronouns: "he" | "him",
   code: [ C, Python, JavaScript, HTML, CSS],
   tools: [React, Node, Git, Github, Bootstrap],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "42 school student to become an elite programmer or at least programmer 😂😂😂"
 }
 
 ```
+
+https://github-readme-stats.vercel.app/api?username=Nicob11&show_icons=true&theme=dark
 
 <!--
 **Nicob11/Nicob11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
