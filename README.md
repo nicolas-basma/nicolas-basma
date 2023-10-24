@@ -11,7 +11,10 @@ const Nico = {
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIcob11&layout=compact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nicob11&repo=Bike4U)](https://github.com/Nicob11/Bike4U)
+
 ![Nicob11 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicob11&show_icons=true&theme=dark)
+
 
 
 <!--
