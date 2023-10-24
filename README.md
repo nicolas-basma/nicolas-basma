@@ -1,5 +1,5 @@
 ### Hi i'm Nico 👋
-[!https://share.icloud.com/photos/091ovJ8CuW24_ZrNHxZcNa4MQ]
+![IMG_4718](https://github.com/Nicob11/Nicob11/assets/103114632/639c9f8b-db7c-405d-8e42-3a947de0e44f)
 
 <!--
 **Nicob11/Nicob11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
