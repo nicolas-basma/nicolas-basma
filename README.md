@@ -1,5 +1,14 @@
-### Hi i'm Nico 👋
-![IMG_4718](https://github.com/Nicob11/Nicob11/assets/103114632/639c9f8b-db7c-405d-8e42-3a947de0e44f)
+### Hi I'm Nico 👋
+
+```js
+const Nico = {
+  pronouns: "he" | "him",
+  code: [ C, Python, JavaScript, HTML, CSS],
+  tools: [React, Node, Git, Github, Bootstrap],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
+```
 
 <!--
 **Nicob11/Nicob11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
