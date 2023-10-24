@@ -9,8 +9,9 @@ const Nico = {
 }
 
 ```
+![Nicob11 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicob11&show_icons=true&theme=dark)
 
-https://github-readme-stats.vercel.app/api?username=Nicob11&show_icons=true&theme=dark
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIcob11&layout=compact)
 
 <!--
 **Nicob11/Nicob11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
