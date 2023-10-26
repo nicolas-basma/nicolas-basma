@@ -27,19 +27,14 @@ const Nico = {
 
 ![Nicob11 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicob11&show_icons=true&theme=dark)
 
+<br>
+<h2 align="center">Conecta Conmigo:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nico-basma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico basma" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/nicobasma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicobasma" height="30" width="40" /></a>
+  </p>
+<h3 align="center"><a href="mailto:nicobasma_@hotmail.com">📧 ¿Cómo localizarme? 📧 </a></h3>
+<br><hr><br>
 
 
-<!--
-**Nicob11/Nicob11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
