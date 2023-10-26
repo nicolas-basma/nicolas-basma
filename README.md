@@ -12,7 +12,7 @@ Enjoy my GitHub profile! 😬
 ```js
 const Nico = {
   pronouns: "he" | "him",
-  code: [ C, Python, JavaScript, HTML, CSS],
+  code: [ C, Python, OpenIA, JavaScript, HTML, CSS],
   tools: [React, Node, Git, Github, Bootstrap],
  challenge: "42 school student to become an elite programmer or at least programmer 😂😂😂"
 }
