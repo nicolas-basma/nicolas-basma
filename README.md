@@ -1,13 +1,8 @@
 ### Hi I'm Nico :v:
 
 Full-Stack Junior Developer 👨‍💻 currently studying at the prestigious
-programming school 4️⃣2️⃣ :m:álaga.<br>
-This school teaches us how the profile of a programmer should be throughout his professional life.
-Teamwork, frustration tolerance, continuous learning, and most importantly, to grow professionally while having fun
-programming alone and in teams.
-I am excited about the idea of contributing my energy and enthusiasm to your company and the team and being able to
-continue my personal development and contribute my knowledge.<br>
-Enjoy my GitHub profile! 😬
+programming school 4️⃣2️⃣ :m:álaga where we learn to become developers who mainly know how to work as a team, learn from frustration ("divine treasure") and much more! <br>
+enjoy my repo! 😬
 
 ```js
 const Nico = {
@@ -33,7 +28,7 @@ const Nico = {
   <a href="https://www.linkedin.com/in/nico-basma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico basma" height="30" width="40" /></a>
   <a href="https://www.instagram.com/nicobasma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicobasma" height="30" width="40" /></a>
   </p>
-<h3 align="center"><a href="mailto:nicobasma_@hotmail.com">📧 ¿Cómo localizarme? 📧 </a></h3>
+<h3 align="center"><a href="mailto:nicobasma_@hotmail.com">📧 Escribeme!📧 </a></h3>
 <br><hr><br>
 
 
