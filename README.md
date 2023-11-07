@@ -28,7 +28,7 @@ const Nico = {
   <a href="https://www.linkedin.com/in/nico-basma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico basma" height="30" width="40" /></a>
   <a href="https://www.instagram.com/nicobasma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicobasma" height="30" width="40" /></a>
   </p>
-<h3 align="center"><a href="mailto:nicobasma_@hotmail.com">📧 Escribeme!📧 </a></h3>
+<h3 align="center"><a href="mailto:febasma@outlook.com">📧 Escribeme!📧 </a></h3>
 <br><hr><br>
 
 
