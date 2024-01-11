@@ -1,4 +1,4 @@
-### Hi I'm Nico :v:
+### Hi I'm Nicolas :v:
 
 Full-Stack Junior Developer 👨‍💻 currently studying at the prestigious
 programming school 4️⃣2️⃣ :m:álaga where we learn to become developers who mainly know how to work as a team, learn from frustration ("divine treasure") and much more! <br>
