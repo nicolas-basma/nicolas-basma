@@ -5,7 +5,7 @@ programming school 4️⃣2️⃣ :m:álaga where we learn to become developers 
 enjoy my repo! 😬
 
 ```js
-const Nico = {
+const Nicolas = {
   pronouns: "he" | "him",
   code: [ C, Python, OpenIA, JavaScript, HTML, CSS],
   tools: [React, Node, Git, Github, Bootstrap],
