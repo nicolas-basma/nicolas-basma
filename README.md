@@ -13,20 +13,20 @@ const Nico = {
 }
 
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIcob11&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-basma&layout=compact)
 
 
 <h2>My first web application</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nicob11&repo=Bike4U)](https://github.com/Nicob11/Bike4U)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolas-basma1&repo=Bike4U)](https://github.com/nicolas-basma/Bike4U)
 
-![Nicob11 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicob11&show_icons=true&theme=dark)
+![nicolas-basma GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-basma&show_icons=true&theme=dark)
 
 <br>
 <h2 align="center">Conecta Conmigo:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nico-basma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico basma" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/nicobasma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicobasma" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nicolas-basma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico basma" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/nicolasbasma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolasbasma" height="30" width="40" /></a>
   </p>
 <h3 align="center"><a href="mailto:febasma@outlook.com">📧 Escribeme!📧 </a></h3>
 <br><hr><br>
