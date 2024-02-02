@@ -16,7 +16,7 @@ const Nicolas = {
 
 <h2>My first web application</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolas-basma1&repo=Bike4U)](https://github.com/nicolas-basma/Bike4U)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolas-basma&repo=Bike4U)](https://github.com/nicolas-basma/Bike4U)
 
 ![nicolas-basma GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-basma&show_icons=true&theme=dark)
 
