@@ -1,15 +1,13 @@
 ### Hi I'm Nicolas :v:
 
-Junior Developer 👨‍💻 currently studying at the prestigious
-programming school 4️⃣2️⃣ :m:álaga where we learn to become developers who mainly know how to work as a team, learn from frustration ("divine treasure") and much more! <br>
-enjoy my repo! 😬
+Técnico electricista con conocimientos en programación web(fullstack), actualmente en la escuela de programación 4️⃣2️⃣ :m:álaga donde aprendemos las habilidades necesarias para trabajar en el mundo digital!<br>
 
 ```js
 const Nicolas = {
   pronouns: "he" | "him",
-  code: [ C, Python, OpenIA, JavaScript, HTML, CSS],
-  tools: [React, Node, Git, Github, Bootstrap],
- challenge: "42 school student to become an elite programmer or at least programmer 😂😂😂"
+  code: [ C, Python, JavaScript, HTML5, CSS],
+  tools: [SqlAlchemy, React, Node, Git, Github, Bootstrap, .net],
+ challenge: "Become a developer"
 }
 
 ```
